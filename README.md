@@ -13,11 +13,6 @@ This is a simple web application built with React that allows users to capture i
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/webcam-image-uploader.git
-   cd webcam-image-uploader
-   npm install
-
 2. Set up Firebase:
 Create a Firebase project and set up Firebase storage.
 Copy the Firebase configuration object into firebase.js in the src directory.
